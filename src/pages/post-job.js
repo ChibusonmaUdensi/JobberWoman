@@ -77,7 +77,7 @@ export default function PostJob() {
                   Location *
                 </label>
                 <input
-                  className="w-full px-4 py-2 border rounded-lg focus:outline-none focus:ring-20 focus:ring-blue-500"
+                  className="w-full px-4 py-2 border rounded-lg focus:outline-none focus:ring-0 focus:ring-blue-500"
                   type="text"
                   name="location"
                   id="location"
@@ -128,7 +128,7 @@ export default function PostJob() {
                 Job Description *
               </label>
               <textarea
-                className="w-full px-4 py-2 border rounded-lg focus:outline-none focus:ring-02 focus:ring-blue-500"
+                className="w-full px-4 py-2 border rounded-lg focus:outline-none focus:ring-0 focus:ring-blue-500"
                 name="description"
                 id="description"
                 rows="6"
