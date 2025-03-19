@@ -16,7 +16,7 @@ export default function SearchBar({ onSearch }) {
           placeholder="Search jobs by title, company, or keywords..."
           value={searchTerm}
           onChange={(e) => setSearchTerm(e.target.value)}
-          className="flex-grow px-4 py-3 focus:outline-none"
+          className="flex-grow px-4 py-3 focus:outline-none text-gray-900"
         />
         <button
           type="submit"
