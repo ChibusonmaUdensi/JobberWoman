@@ -23,13 +23,13 @@ export default function JobDetail() {
         
         <div className="p-6">
           <div className="flex flex-wrap gap-4 mb-6">
-            <div className="bg-gray-100 rounded-full px-4 py-2">
+            <div className="bg-gray-100 rounded-full px-4 py-2 text-gray-700">
               <span className="font-medium text-gray-700">Location:</span> {job.location}
             </div>
-            <div className="bg-gray-100 rounded-full px-4 py-2">
-              <span className="font-medium text-gray-700">Salary:</span> {job.salary}
+            <div className="bg-gray-100 rounded-full px-4 py-2 text-gray-700">
+              <span className="font-medium ">Salary:</span> {job.salary}
             </div>
-            <div className="bg-gray-100 rounded-full px-4 py-2">
+            <div className="bg-gray-100 rounded-full px-4 py-2 text-gray-700">
               <span className="font-medium text-gray-700">Type:</span> {job.type}
             </div>
           </div>
