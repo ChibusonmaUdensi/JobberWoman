@@ -22,8 +22,8 @@ A simple job board application built with Next.js that displays tech job listing
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/job-listings.git
-cd job-listings
+git clone https://github.com/ChibusonmaUdensi/JobberWoman.git
+cd jobberwoman
 ```
 
 2. Install dependencies:
