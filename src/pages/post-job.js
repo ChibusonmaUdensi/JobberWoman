@@ -108,7 +108,7 @@ export default function PostJob() {
                 Job Type *
               </label>
               <select
-                className="w-full px-4 py-2 border rounded-lg focus:outline-none focus:ring-0 focus:ring-blue-500"
+                className="w-full text-gray-900 px-4 py-2 border rounded-lg focus:outline-none focus:ring-0 focus:ring-blue-500"
                 name="type"
                 id="type"
                 value={formData.type}
@@ -143,7 +143,7 @@ export default function PostJob() {
                 Requirements * (one per line)
               </label>
               <textarea
-                className="w-full px-4 py-2 border text-gray-500 rounded-lg focus:outline-none focus:ring-0 focus:ring-blue-500"
+                className="w-full px-4 py-2 border text-gray-400 rounded-lg focus:outline-none focus:ring-0 focus:ring-blue-500"
                 name="requirements"
                 id="requirements"
                 rows="4"
