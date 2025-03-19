@@ -6,9 +6,9 @@ A simple job board application built with Next.js that displays tech job listing
 
 - **Home Page**: Browse all job listings with titles, company names, and brief descriptions
 - **Job Detail Page**: View complete information about each position
-- **Search Functionality**: Filter jobs by keywords (optional bonus feature)
-- **Load More**: Pagination for job listings (optional bonus feature)
-- **Job Submission Form**: Post new job listings (optional bonus feature)
+- **Search Functionality**: Filter jobs by keywords
+- **Load More**: Pagination for job listings 
+- **Job Submission Form**: Post new job listings 
 
 ## Getting Started
 
