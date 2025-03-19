@@ -1,4 +1,5 @@
-# Job Listings Web Application
+# JOBBERWOMAN
+# A Comprehensive Job Listing Web Application
 
 A simple job board application built with Next.js that displays tech job listings.
 
